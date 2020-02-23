@@ -4,6 +4,6 @@
 
 This Calculator project has been developed using ReactJS..
 
-It has been deployed, click to think to check: https://juniorthx3.github.io/react-calculator-project/
+It has been deployed, click here to check: https://juniorthx3.github.io/react-calculator-project/
 
 ![Project pic](src/calculator-project.PNG)
